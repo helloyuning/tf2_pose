@@ -199,3 +199,4 @@ silght perturbation training in fixed dataset: set perturbation range in (max_ro
 #2. test data is different with training data
 silght perturbation training : set perturbation range in (max_rot_pert:1.0, max_trans_pert:0.10) 
 
+# refinement part is from file op_refine.py
